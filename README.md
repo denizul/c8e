@@ -11,7 +11,7 @@ The core interpreter is functional but the graphics display is not yet working. 
 
 TO DO
 ------------
-Implement graphics, disassembler and input.
+Implement graphics (OpenGL Glut), disassembler and input.
 
 How To Use
 ------------
